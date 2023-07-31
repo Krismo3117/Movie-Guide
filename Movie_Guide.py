@@ -7,7 +7,7 @@ def display_menu():
     print("=============================")
 
 def prepopulate_movie_list():
-    return ["Movie 1", "Movie 2", "Movie 3"]
+    return ["The Hangover", "E.T.", "John Wick 1"]
 
 def display_all_titles(movie_list):
     print("===== Movie List =====")
@@ -54,4 +54,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
